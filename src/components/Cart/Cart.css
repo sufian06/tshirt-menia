@@ -7,3 +7,19 @@
   cursor: pointer;
   border-radius: 3px;
 }
+.orange {
+  background-color: orange;
+}
+.blue {
+  background-color: lightblue;
+}
+.purple {
+  background-color: purple;
+  color: white;
+}
+.yellow {
+  background-color: yellow;
+}
+.bold {
+  font-weight: bold;
+}
