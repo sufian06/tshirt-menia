@@ -1,0 +1,13 @@
+.header a {
+  background-color: lightblue;
+  text-decoration: none;
+  padding: 3px 10px;
+  margin: 20px 0;
+  display: inline-block;
+  margin-right: 15px;
+  font-weight: 500;
+  border-radius: 4px;
+}
+.header a:hover {
+  background-color: lightskyblue;
+}
